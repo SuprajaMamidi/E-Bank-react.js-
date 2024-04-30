@@ -1,0 +1,17 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
+}
+.btn {
+  border-color: #ffffff;
+  color: #ffffff;
+  background-color: #152850;
+  height: 40px;
+  width: 100px;
+}
+
+.imag {
+  height: 80px;
+  width: 100px;
+}
